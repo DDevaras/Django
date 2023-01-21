@@ -27,7 +27,7 @@ SECRET_KEY = 'Yo5432%65phz83&k447a773s2^z(f4uhq%x-#yq-0$lxffWOM'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['https://dennisdevaras-djangoblog.onrender.com']
+ALLOWED_HOSTS = ['https://testuwu.onrender.com']
 
 
 # Application definition
