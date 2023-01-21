@@ -25,9 +25,9 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'Heat&65phz83&k447a773s2^z(f4uhq%x-#yq-0$lxffWOM'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
-ALLOWED_HOSTS = ['https://dennisdevaras-djangoblog.onrender.com']
+ALLOWED_HOSTS = ['https://testuwu.onrender.com']
 
 
 # Application definition
